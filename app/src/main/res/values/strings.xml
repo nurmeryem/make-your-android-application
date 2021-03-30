@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MakeYourApp</string>
+    <string name="notification_activity">NotificationView</string>
+    <string name="rate_dialog_title">Rate this app</string>
+    <string name="rate_dialog_message">If you enjoy playing this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thanks for your support!</string>
+    <string name="rate_dialog_ok">Rate It Now</string>
+    <string name="rate_dialog_cancel">Remind Me Later</string>
+    <string name="rate_dialog_no">No, Thanks</string>
+    <string name="quit"> Çıkış </string>
+    <string name="really_quit"> Emin Misin</string>
+    <string name="yes"> Evet </string>
+    <string name="no"> Hayır </string>
+</resources>
